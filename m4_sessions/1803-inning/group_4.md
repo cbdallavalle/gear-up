@@ -21,14 +21,14 @@
 
 ### Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
 
-- Icebreaker -- (10 min)
-- What is an api? -- (7.5 min) JOSI
-  - terminology 
-  - quick overview
+- Icebreaker (what's a social issue that you're interested in) -- (10 min)
 - Finding them -- (7.5 min) KELLEY
   - understanding the docs
   - examples of institutions that publish/maintain apis
   - resources available
+- What is an api? -- (7.5 min) JOSI
+  - terminology 
+  - quick overview
 - How do you know it's a good one? -- (7.5 min) CASEY
   - Talk about data object and cleaning it
 - How to find inspiration & using them -- (7.5 min) NORA
@@ -38,9 +38,15 @@
 
 ### Group interactivity/discussion
 - Split up into groups of 4 or 5 via count off and individually research an api -- (10 min)
-- Share what you've found & brainstorm ideas on how to use that api to make an app -- (20 min)
+  - make groups with a mix of front end and back end
+- Share what you've found & brainstorm ideas on how to use that api to make an app -- (15 min)
+  - reuse the data channel
 
-~ 30 min
+~ 25 min
 
+### Closing Statements
+- Inspire the use of public data in the creation of applications and apis.
+- Encourage collaboration between front end and back end to put data online that is not available.
+- Don't be afraid to make your own api.
 
 Submit by the end of Gear Up on Friday and tag @emhickmann
